@@ -2,7 +2,6 @@
 using namespace std;
 
 int gcd(int x,int y);
-
 int main(){
     int x, y;
     cin >> x >> y;
